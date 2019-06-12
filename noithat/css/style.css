@@ -1,0 +1,30 @@
+
+/*
+
+Heder CSS
+
+*/
+.header{
+    box-sizing: border-box;
+    height: 170px
+;
+}
+/*
+Banner
+ */
+.banner{
+    height: 936px;
+    width: 100%;
+    background: url("../images/banner.jpg") top center;
+    display: table;
+}
+.banner h1{
+    font-size: 80px;
+    color: #00000;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+.banner h1 span{
+    color: #f66c27;
+}
